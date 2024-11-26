@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s01vect",
+  "description": "https://scrimba.com/learn-html-and-css-c0p/~0f/s00tkft0ln/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
